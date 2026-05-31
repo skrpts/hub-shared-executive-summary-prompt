@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "aa7b9faf-23af-413c-b432-8f0da72ef36d"
+name: "executive-summary-prompt"
+display_name: "Executive Summary Prompt"
+description: "Generate a concise, decision-ready executive summary from pipeline analysis outputs"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-executive-summary-prompt"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
