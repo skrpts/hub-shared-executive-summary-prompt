@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "aa7b9faf-23af-413c-b432-8f0da72ef36d"
+id: "4dee536b-80e7-4f02-9c5f-48a155de2778"
 name: "executive-summary-prompt"
 display_name: "Executive Summary Prompt"
 description: "Generate a concise, decision-ready executive summary from pipeline analysis outputs"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
